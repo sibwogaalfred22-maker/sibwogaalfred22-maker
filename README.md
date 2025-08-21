@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=sibwogaalfred22-maker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-Here are some ideas to get you started:
-
+Here are some ideas to get you started
 - 🔭 I’m currently working on  **Programming, trading and economical statistics**
 - 🌱 I’m currently **learning Programming**
 - 👯 I’m looking to collaborate on**procedural,object-oriented,functional,logic-based programming** 
@@ -10,6 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **sibwogaalfred22@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *i love Trading fx*
+
+## About me
+As an experienced economist and project manager with a passion for financial markets, I specialize in providing insights that drive strategic decision-making. With a background in economics and hands-on expertise in financial analysis, accounting, and advisory, I have developed a comprehensive understanding of how to optimize financial performance and manage risk.
+My journey in trading and finance has equipped me with practical skills in financial planning, budgeting, and investment strategies. I have a track record of guiding individuals and businesses to make informed decisions that maximize growth while minimizing risks.
+Having worked on various projects, I bring a blend of analytical rigor and practical know-how to each assignment, ensuring that clients receive solutions tailored to their unique needs. Whether it's managing financial portfolios or optimizing budget plans, my goal is to deliver results that exceed expectations.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sibwoga Alfred) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sibwoga.alfred) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sibwoga Alfred) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sibwogaalfred) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@royalforextraders) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alfred_sibwoga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibwogaalfred22@gmail.com) 
