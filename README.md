@@ -1,19 +1,15 @@
 ## Hi there 👋
 
-<!--
-**sibwogaalfred22-maker/sibwogaalfred22-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on  **Programming, trading and economical statistics**
+- 🌱 I’m currently **learning Programming**
+- 👯 I’m looking to collaborate on**procedural,object-oriented,functional,logic-based programming** 
+- 💬 Ask me about **technology,forex trading,economics and personal development**
+- 📫 How to reach me: **sibwogaalfred22@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: *i love Trading fx*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sibwoga Alfred) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sibwoga.alfred) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sibwoga Alfred) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sibwogaalfred) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@royalforextraders) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alfred_sibwoga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibwogaalfred22@gmail.com) 
